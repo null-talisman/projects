@@ -38,5 +38,5 @@ server {
 ### Visit the site
 Now we can navigate to our site and if we've followed the steps correctly, our web browser should render our `website.HTML` file when we navigate to `www.my_website.com`.
 
-
+![My Site](image-1.png)
 
